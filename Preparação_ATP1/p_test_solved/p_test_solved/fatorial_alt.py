@@ -1,0 +1,10 @@
+def factorial():
+    n = int(input("Qual o número: "))
+    f = 1
+    while n > 0:
+        f *= n
+        n -= 1
+    print(f)
+
+
+factorial()

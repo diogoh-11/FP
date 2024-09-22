@@ -1,0 +1,17 @@
+def score(guess, secret):
+    assert len(guess) == len(secret)
+
+    count = 0
+    lst= ["í","á","õ","ç"]
+
+    for i in range(len(secret)):
+        if guess[i] != secret[i]:
+            count +=1
+        elif guess[i] != secret[i] and (guess[i] in lst):
+            count-=1
+    
+    print(count)            
+    return (count)
+
+score("adçf", "abcd")
+

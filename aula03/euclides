@@ -1,0 +1,8 @@
+def variaveis():
+    a = input("Qual o valor de a:")
+    b = input("Qual o valor de b:")
+    return(a,b)
+def mdc(a,b):
+    r = a/b
+    if a
+    

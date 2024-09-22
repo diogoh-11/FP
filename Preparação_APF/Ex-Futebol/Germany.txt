@@ -1,0 +1,30 @@
+ 1. FC Köln           1633  88   
+ 1. FC Union Berlin   1655  74   
+ Augsburg             1581  141  
+ Bayer Leverkusen     1773  27   
+ Bayern München       2045  1    
+ Bochum               1571  152  
+ Borussia Dortmund    1792  21   
+ Borussia Mönchengladbach 1605  113  
+ Darmstadt            1467  380  
+ DSC Arminia Bielefeld 1546  195  
+ Eintracht Braunschweig 1454  427  
+ Eintracht Frankfurt  1697  49   
+ Fortuna Düsseldorf   1541  208  
+ Freiburg             1692  52   
+ Greuther Fürth       1412  596  
+ Hamburger SV         1539  215  
+ Hannover 96          1429  527  
+ Hertha BSC           1504  285  
+ Hoffenheim           1664  70   
+ Ingolstadt           1532  228  
+ Kaiserslautern       1419  569  
+ Mainz                1654  76   
+ Nürnberg             1391  710  
+ RB Leipzig           1826  15   
+ SC Paderborn 07      1451  437  
+ Schalke 04           1400  653  
+ St. Pauli            1420  568  
+ VfB Stuttgart        1556  175  
+ Werder Bremen        1496  299  
+ Wolfsburg            1554  177  

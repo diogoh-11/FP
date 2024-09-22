@@ -1,0 +1,3 @@
+numeros = ["carl"]
+numeros.sort()
+print(numeros)  # Saída: [1, 2, 3, 4, 7, 9]

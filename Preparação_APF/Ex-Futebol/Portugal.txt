@@ -1,0 +1,36 @@
+ Académica            1322  1238 
+ Arouca               1367  845  
+ Beira-Mar            1343  1027 
+ Belenenses           1358  908  
+ Benfica              1797  19   
+ Boavista             1444  458  
+ Boavista             1444  458  
+ Braga                1655  75   
+ CD das Aves          1266  1864 
+ CD Santa Clara       1460  400  
+ Chaves               1389  721  
+ CS Marítimo Madeira  1421  564  
+ Estoril              1406  632  
+ FC Famalicão         1436  492  
+ FC Famalicão         1436  492  
+ FC Porto             1831  14   
+ FC Vizela            1407  625  
+ Feirense             1294  1518 
+ Gil Vicente FC       1517  262  
+ Leixões              1318  1269 
+ Moreirense           1384  752  
+ Nacional             1268  1847 
+ Naval 1º de Maio     1337  1090 
+ Olhanense            1329  1158 
+ Paços de Ferreira    1448  442  
+ Penafiel             1298  1479 
+ Portimonense         1385  745  
+ Rio Ave              1443  464  
+ Rio Ave              1443  464  
+ SC Farense           1387  731  
+ Sporting             1797  20   
+ Tondela              1353  951  
+ Uniao da Madeira     1350  976  
+ União de Leiria      1288  1598 
+ Vitória Guimarães    1471  361  
+ Vitória Setúbal      1371  815  

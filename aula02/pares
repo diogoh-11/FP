@@ -1,0 +1,3 @@
+n = input("Escreva um número inteiro:"))
+d = n%2
+
